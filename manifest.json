@@ -1,0 +1,32 @@
+{
+  "name": "Sportbox",
+  "short_name": "Sportbox",
+  "description": "Musculation à la maison : bibliothèque d'exercices Push/Pull/Legs, tirage automatique de la semaine, minuteurs de repos et suivi de progression.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14171b",
+  "theme_color": "#14171b",
+  "orientation": "portrait",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

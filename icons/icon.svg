@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#14171b"/>
+
+  <!-- effort lines -->
+  <g stroke="#30cb75" stroke-width="16" stroke-linecap="round" fill="none">
+    <path d="M 176 150 C 160 130, 160 110, 176 90"/>
+    <path d="M 336 150 C 352 130, 352 110, 336 90"/>
+    <path d="M 256 138 L 256 88"/>
+  </g>
+
+  <!-- dumbbell -->
+  <rect x="76" y="288" width="360" height="44" rx="22" fill="#f3f4f6"/>
+  <rect x="52" y="230" width="72" height="160" rx="18" fill="#f3f4f6"/>
+  <rect x="388" y="230" width="72" height="160" rx="18" fill="#f3f4f6"/>
+  <rect x="52" y="230" width="72" height="160" rx="18" fill="none" stroke="#c8ccd3" stroke-width="6"/>
+  <rect x="388" y="230" width="72" height="160" rx="18" fill="none" stroke="#c8ccd3" stroke-width="6"/>
+</svg>
